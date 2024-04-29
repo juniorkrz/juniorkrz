@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Júnior
+🌍 I'm from Pernambuco, Brazil.<br>
 🎓 I'm a student of Systems Analysis and Development.<br>
 💻 I'm passionate about coding and software development.<br>
 🤖 I have a keen interest in automations and streamlining processes.
